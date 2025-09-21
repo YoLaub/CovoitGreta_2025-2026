@@ -131,6 +131,17 @@
 
 ## 3. Répartition des Tâches par Équipe
 
+  - **GRAPHISTE**
+
+- **Équipe UI/UX : Maquettage et prototypage**
+  - Charte graphique
+  - Interfaces inscription/connexion.
+  - Interfaces profils/véhicules.
+  - Interfaces trajets/réservations.
+  - Interface messagerie & notifications.
+
+  - **DEV**
+
 - **Équipe 1 : Back-end (APIs & Logique Métier)**
   - APIs utilisateurs, profils, sessions.
   - APIs véhicules, trajets.
@@ -139,10 +150,7 @@
   - APIs réservations, avis, notifications.
 
 - **Équipe 2 : Front-end (Interfaces Utilisateur)**
-  - Interfaces inscription/connexion.
-  - Interfaces profils/véhicules.
-  - Interfaces trajets/réservations.
-  - Interface messagerie & notifications.
+
 
 - **Équipe 3 : Base de Données & Intégration**
   - Schéma BDD, migrations, peuplement.
@@ -166,10 +174,10 @@
 ---
 
 ## 5. Technologies Recommandées
-- **Back-end** : PHP  
-- **Front-end** : Vue.js + TypeScript  
+- **Back-end** : PHP - Symphonie Ou Laravel 
+- **Front-end** : React.ts
 - **Base de données** : MySQL  
-- **Cartographie** : Google Maps API ou OpenStreetMap  
+- **Cartographie** : Google Maps API ou OpenStreetMap ou https://openrouteservice.org/
 - **Paiement** : Stripe, PayPal, Mangopay  
 
 ---
